@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500081175 source:/home/leonardo/nautilus/video/main.cpp
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+
